@@ -6,6 +6,7 @@ public static void main(String{} args) {
 	
 	displayGreeting();
 	
+	displayGreeting2();
 }
 	
 
